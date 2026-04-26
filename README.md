@@ -1,7 +1,5 @@
 # راهنمای کامل فارسی — Vercel XHTTP Relay
-
-این یک رِله (relay) ساده روی **Vercel Edge Function** هست که ترافیک **XHTTP** کلاینت Xray/V2Ray رو به سرور Xray پشتی شما فوروارد می‌کنه. هدف: استفاده از شبکه‌ی جهانی Vercel و دامنه‌ی `*.vercel.app` به‌عنوان پوشش (front) برای IP سرور اصلی.
-
+A minimal Vercel Edge Function that relays XHTTP traffic to your Xray/V2Ray backend. Use Vercel's global edge network as a front for your Xray server. Includes complete Persian setup guide (Persian README).
 ---
 
 ## فهرست
