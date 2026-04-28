@@ -1,8 +1,7 @@
 #Powered By Mr Hossein
-{
-  "name": "vercel-xhttp-relay",
+  "name": "vercel-t",
   "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
+  "description": "Serverless XHTTP relay for Xray/V2Ray on Vercel (Edge Runtime)",
   "private": true,
   "license": "MIT"
 }
