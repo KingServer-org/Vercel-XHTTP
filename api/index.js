@@ -1,3 +1,6 @@
+#Powered By Mr TelneT
+#Freedom
+#Freedom
 export const config = { runtime: "edge" };
 
 const TARGET_BASE = (process.env.TARGET_DOMAIN || "").replace(/\/$/, "");
