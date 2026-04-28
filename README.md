@@ -1,4 +1,5 @@
-# Vercel XHTTP Relay
+# Vercel-T
+#Powered By Mr Telnet
 
 ### 🇮🇷 راهنمای کامل فارسی — Complete Persian Setup Guide
 
