@@ -1,7 +1,3 @@
-#Powered By Mr TelneT
-#Freedom
-#Freedom
-
 export const config = {
   runtime: "edge",
 };
